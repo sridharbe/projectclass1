@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class StringPalindrome {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// i am altering to give the reviewer name in pull request
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter your choice of string");
 		String s1 = s.next();
@@ -23,7 +23,5 @@ public class StringPalindrome {
 		}else{
 			System.out.println("Given string is not palindrome");
 		}
-
+		}
 	}
-
-}
